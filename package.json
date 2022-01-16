@@ -1,0 +1,20 @@
+{
+  "name": "ewingEğlencev13",
+  "version": "1.0.0",
+  "description": "Ewing v13 Eğlence Botu",
+  "main": "éwing.js",
+  "scripts": {
+    "start": "node éwing.js"
+  },
+  "author": "AliBerat && éwing",
+  "license": "MIT",
+  "dependencies": {
+    "discord-sync-commands": "^0.2.0",
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  }
+}
